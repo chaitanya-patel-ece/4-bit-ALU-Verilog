@@ -1,11 +1,3 @@
-// ============================================================
-// Project  : 4-bit ALU Testbench
-// File     : alu_4bit_tb.v
-// Author   : Chaitanya Patel
-// College  : Birla Vishwakarma Mahavidyalaya, Anand
-// Date     : 2025
-// Description: Testbench to verify all ALU operations
-// ============================================================
 
 `timescale 1ns / 1ps
 
