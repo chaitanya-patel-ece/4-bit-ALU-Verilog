@@ -1,12 +1,4 @@
-// ============================================================
-// Project  : 4-bit ALU
-// File     : alu_4bit.v
-// Author   : Chaitanya Patel
-// College  : Birla Vishwakarma Mahavidyalaya, Anand
-// Date     : 2025
-// Description: 4-bit ALU supporting ADD, SUB, AND, OR,
-//              NOT, XOR, INC, DEC, EQ, GT operations
-// ============================================================
+
 
 module alu_4bit (
     input  [3:0] A,        // 4-bit operand A
